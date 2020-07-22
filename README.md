@@ -65,5 +65,7 @@ Use netmats1.txt or netmats2.txt as connectome matrix
 
 The script runs functions:
 Cross validation:   cv('netmats1.txt', 'subjectIDs.txt', 'unrestricted_ondramaz_6_21_2020_8_5_28.csv', 'Strength_Unadj')
+
 Train model:        train('netmats1.txt', 'subjectIDs.txt', 'unrestricted_ondramaz_6_21_2020_8_5_28.csv', 'Strength_Unadj','savemodel.mod')
+
 Predict data:       predict('netmats1.txt','savemodel.mod')
