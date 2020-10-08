@@ -1,4 +1,4 @@
-# CPM
+# CPM - Using connectome-based predictive modeling to predict individual behavior from brain connectivity
 
 DATA preparation:
 1. Download behavioral and connectome data:
