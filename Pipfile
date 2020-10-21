@@ -10,6 +10,7 @@ numpy = "*"
 pandas = "*"
 scipy = "*"
 sklearn = "*"
+xlrd = "*"
 
 [requires]
 python_version = "3.6"
